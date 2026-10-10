@@ -1,0 +1,13 @@
+# Never commit Clavia/Nord binaries or anything derived from them
+*.exe
+*.bin
+*.lzo
+*.elf
+build/
+work/
+out/
+ghidra_proj/
+ghidra_out/
+decomp.c
+__pycache__/
+*.pyc
